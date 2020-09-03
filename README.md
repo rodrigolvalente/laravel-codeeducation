@@ -1,5 +1,7 @@
-Imagem Laravel: rlvalente/laravel:codeeducation
+Imagem do DesafioDocker GoLang: rlvalente/codeeducation
 
+
+Laravel com Dockerize no Nginx
 Step:
 
 start via docker-compose
